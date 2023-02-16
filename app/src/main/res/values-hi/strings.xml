@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi_lang_weather_app</string>
+    <string name="language">भाषा</string>
+    <string name="humidity">नमी</string>
+    <string name="pressure">दबाव</string>
+    <string name="search">खोज</string>
+    <string name="wind_speed">हवा की गति</string>
+</resources>
